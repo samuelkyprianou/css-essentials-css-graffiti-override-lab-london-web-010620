@@ -10,6 +10,6 @@ body div#wall #tag-3.slick {
   display: none;
 }
 
-.parent dev#tag-4 {
+.parent > dev#tag-4 {
   display: none
 }
